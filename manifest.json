@@ -14,7 +14,7 @@
     "512":"icon.png"
   },
   "manifest_version": 2,
-  "name": "Duplicate Tab In Background",
+  "name": "Duplicate Tabs In Background",
   "permissions": [
     "menus",
     "tabs"
