@@ -1,0 +1,23 @@
+{
+  "author": "igorlogius",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "commands": {
+    "_execute_browser_action": {"suggested_key": { "default": "F1" } }
+  },
+  "browser_action": {
+  },
+  "icons": {
+    "512":"icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Duplicate Tab In Background",
+  "permissions": [
+    "menus",
+    "tabs"
+  ],
+  "version": "1.0.0"
+}
